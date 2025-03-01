@@ -13,7 +13,7 @@ body {
 /* HEADER (HERO) SECTION */
 .header {
   /* Replace with your hero image path */
-  background: url('headerimg.png') no-repeat center center/cover;
+  background: url('img/headerimg.png') no-repeat center center/cover;
   height: 100vh;
   display: flex;
   align-items: center;
